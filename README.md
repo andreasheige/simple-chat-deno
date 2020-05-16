@@ -6,4 +6,4 @@ Including testing and third-party..
 Start -> deno run --allow-net --allow-read server.ts
 ```
 ### Screenshot:
-![example](https://andreasheige.me/img/ex-deno-chat.png)
+![example](https://andreasheige.me/img/screen-deno-chat.png)
